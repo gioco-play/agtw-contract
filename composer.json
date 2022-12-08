@@ -1,0 +1,17 @@
+{
+    "name": "gioco-plus/agtw-contract",
+    "description": "ag transfer wallet interface",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "GiocoPlus\\AGTW\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "q",
+            "email": "q.wong@goldenf.co"
+        }
+    ],
+    "require": {}
+}
