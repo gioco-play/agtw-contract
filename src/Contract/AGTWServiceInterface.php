@@ -11,9 +11,10 @@ interface AGTWServiceInterface
      * @param string $account
      * @param string $game_code
      * @param string $language
+     * @param string $oddType
      * @param string|null $back_url
      */
-    function gameLaunch(string $op_code, string $account, string $game_code, string $language, string $back_url = null);
+    function gameLaunch(string $op_code, string $account, string $game_code, string $language, string $oddType, string $back_url = null);
 
     /**
      * 抓取遊戲紀錄

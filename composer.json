@@ -7,11 +7,5 @@
             "GiocoPlus\\AGTW\\": "src/"
         }
     },
-    "authors": [
-        {
-            "name": "q",
-            "email": "q.wong@goldenf.co"
-        }
-    ],
     "require": {}
 }
